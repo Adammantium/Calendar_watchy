@@ -8,7 +8,7 @@ Calendar Watchface
 Displays current Calendar for Month and Year from 2020 to 2040.
 File can easily be edited for addition years if desired.
 
-![Screenshots](https://github.com/uCBill/Calendar/main/calender.gif)
+![Screenshots](https://github.com/uCBill/Calendar_watchy/main/calender.gif)
 
 A Calender WatchFace that updates based on the current month and year.
 
