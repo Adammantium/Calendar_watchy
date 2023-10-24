@@ -1,6 +1,6 @@
 /*
 Calendar
-Version 1.0.0
+Version 1.0.0 Old File, see Calendar.ino for latest version.
 https://github.com/uCBill/Calendar
 Calendar watchface by Bill Eichner
 */
